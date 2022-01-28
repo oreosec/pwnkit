@@ -2,7 +2,7 @@
 
 A memory corruption vulnerability was discovered in pkexec of polkit (previously PolicyKit).
 
-[![asciicast](https://asciinema.org/a/W541c39enq0ftXP8pvYbl71KI.svg)](https://asciinema.org/a/W541c39enq0ftXP8pvYbl71KI)
+[![asciicast](https://asciinema.org/a/2ofNaUmmZeO7HT6fNZXpV15FD.svg)](https://asciinema.org/a/2ofNaUmmZeO7HT6fNZXpV15FD)
 
 ## Reference
 
